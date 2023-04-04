@@ -1,5 +1,5 @@
 {
-    "name": "simple_lib/from_yurok",
+    "name": "from_yurok/simple_lib",
     "description": "study task from php course by otus",
     "type": "library",
     "autoload": {
