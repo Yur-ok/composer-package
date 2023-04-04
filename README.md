@@ -6,6 +6,9 @@
 
 
 ## Установка
+```bash
+composer require from_yurok/simple_lib
+```
 
 
 ## Использование
