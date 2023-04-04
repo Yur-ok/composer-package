@@ -1,0 +1,11 @@
+{
+    "name": "simple_lib/from_yurok",
+    "description": "study task from php course by otus",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SimpleLib\\FromYurok\\": "src/"
+        }
+    },
+    "require": {}
+}
