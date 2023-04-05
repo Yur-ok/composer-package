@@ -1,11 +1,13 @@
 {
-    "name": "from_yurok/simple_lib",
-    "description": "study task from php course by otus",
-    "type": "library",
-    "autoload": {
-        "psr-4": {
-            "SimpleLib\\FromYurok\\": "src/"
-        }
-    },
-    "require": {}
+  "name": "from_yurok/simple_lib",
+  "description": "study task from php course by otus",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "SimpleLib\\FromYurok\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
 }
