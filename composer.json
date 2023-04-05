@@ -2,6 +2,7 @@
   "name": "from_yurok/simple_lib",
   "description": "study task from php course by otus",
   "type": "library",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "FromYurok\\SimpleLib\\": "src/"
